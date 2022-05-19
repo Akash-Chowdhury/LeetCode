@@ -1,3 +1,4 @@
+<?php
 class Solution {
 
 /**
@@ -23,4 +24,5 @@ function removeElement(&$nums, $val) {
     }
     return $n-$c;
 }
-}
+};
+?>
